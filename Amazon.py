@@ -37,6 +37,7 @@ for i in range(len(page.find_all('span', class_='celwidget slot=MAIN template=SE
         preco       
     
         )
-    arquivo.close()#Fecha o arquivo        
+    
+arquivo.close()#Fecha o arquivo        
     
 
